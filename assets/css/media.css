@@ -1,0 +1,238 @@
+@media(max-width: 767px){
+
+nav{
+    padding: 0;
+}
+nav .logo{
+    margin-left: 20px
+}
+header .head{
+    width:80%;
+} 
+    
+ .blok img{
+     display: none;
+ } 
+    
+    
+    
+    
+    
+    
+._all ._brand .brand-img .life img{
+    display: block;
+/*    left: 0;*/
+    margin: 20px;
+/*    top: 10px;*/
+/*    width: 100%;*/
+/*    float: right;*/
+    position: relative;
+}    
+._all ._brand .brand-img .life p{
+    right: 0;
+    top: 10px;
+    margin-top: 6px;
+    position: relative;
+    width: 94%;
+}  
+._all ._brand .brand-img ._sp{
+    font-size: 17px;
+    /* top: 70px; */
+    top: 20px;
+
+}    
+ ._all ._brand .Materials ._img img{
+     position: relative
+ }   
+._all ._brand .Materials ._img .mp{
+    top: -150px;
+    font-size: 30px;
+    padding: 0;
+    left: 0;
+}  
+._all ._brand .brand-img .life .abtimg{top: 0;}    
+    
+    
+    
+    
+    
+    
+._all .header ._head p{
+    font-size: 19px;
+    margin-bottom: 5px;
+} 
+._all{margin-top: -28px;}    
+._all .header ._head .sort{font-size: 20px}  
+._all .header ._head .Source .store{
+    display: initial;
+    text-align: center;
+    width: 30%;
+}    
+._all .header ._head a{
+    margin-bottom: 0px;
+    margin-top: 0;
+}    
+    .join{
+/*        background: none;*/
+/*        padding: 0 10px;*/
+    }
+    .join .text a{
+        right: -3%;
+        top: 57%;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size-adjust: 24px;
+    }
+    .join .footer ul{
+        padding: 0
+    }
+    .join .footer{
+        width:100%
+    }
+    .join .text{
+    width: 100%;
+
+}   
+.join .text p{
+    color: #fff;
+    text-shadow: 0px 1px 0px black;
+    width: 90% !important;
+
+} 
+._all ._brand .brand-img{
+    background: #ebebeb;
+    min-height: 500px;
+}
+._all ._brand .brand-img ._sp{
+    top: 196px;
+    left: 20px;
+}
+    ._all ._brand .brand-img .life img{
+        display: block;
+        left: 0;
+        top: 10px;
+    }
+    ._all ._brand .brand-img ._sp{
+        font-size: 26px;
+        top: 46px;
+    }
+._all ._brand .brand-img .ss{top: 50px; font-size: 24px}
+._all ._brand .brand-img img{display: none;}
+._all ._brand .brand-img .life p{
+    right: 0;
+    top: 10px;
+    margin-top: 0;
+}
+
+._all ._brand .Materials .global .button a{
+    display: block;
+    margin: 10px auto;
+}    
+    
+ ._all ._brand ._agents span{font-size: 20px;}
+._all ._brand ._agents,
+._all ._brand ._agents span,
+._all ._brand ._agents p{
+        width: 100%;
+        margin-bottom: 10px;;
+    }
+._all ._brand ._agents a{margin: 20px 15px 0 0}  
+._all ._brand .images{text-align: center;}
+._all ._brand .images ._img{
+    width: 50%;
+    margin: 15px auto;
+}    
+/*._all ._brand .images ._img img{display: block;}    */
+/*
+.menu{
+    width: 100%;
+    float: left;
+    background: blue;
+    position: relative;
+    z-index: 2;
+}
+.menu li{
+    display: block !important;
+    line-height: 1;
+    background-color: yellow;
+    width: 100%;
+    left: 0;
+    margin-left: 0 !important;
+    border-bottom: 3px solid red;
+    padding: 21px;
+}
+    .logo{
+        z-index: 3;
+        position: relative;
+    }
+.active{display: none;}
+*/
+/*.btn a{display: none}*/
+/*
+.son{
+    display: none;
+}
+*/
+  
+    
+/*
+.mobile{
+    width: 100%;
+    background: blue;
+    color: wheat;
+    font-size: 31px;
+    position: relative;
+    top: -19px;
+    text-align: -webkit-right;
+    padding: 0 22px;
+    position: absolute;
+    z-index: 1;
+}
+*/
+
+    
+    header .head span {
+    font-size: 18px;
+        margin-bottom: 2px;
+    }
+ header .head span:last-of-type{
+     font-size: 20px;
+ } 
+  header .head p {
+    line-height: 1.5;
+    font-size: 14px;
+    margin: 10px 0
+} 
+header .head a{
+    margin: 6px 0 0 0;
+}    
+    
+.Jewelry h1{
+    font-size: 30px;
+}    
+.Jewelry p{
+    font-size: 11px
+}    
+    
+    
+.padding-0{padding: 0}
+
+    
+    
+}
+/*
+@media(max-width: 768px )and (max-width: 2209px){
+    ._all ._brand ._agents span{
+        font-size: 25px
+    }
+    ._all ._brand ._agents{
+        width: 100%;
+    }
+}
+*/
+
+
+
+
+
